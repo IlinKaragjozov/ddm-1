@@ -36,7 +36,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.provider "virtualbox" do |vb|
     #   # Display the VirtualBox GUI when booting the machine
-    vb.gui = false
+    vb.gui = true
     vb.memory = "2048"
     vb.cpus = 2
   end
