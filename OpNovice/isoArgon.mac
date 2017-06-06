@@ -1,0 +1,17 @@
+/control/verbose 0
+/tracking/verbose 0
+#
+/gps/particle ion
+/gps/ion 18 40
+/gps/ene/mono 100 keV
+#
+/gps/pos/type Volume
+/gps/pos/shape Cylinder
+#/gps/pos/halfx 2.0 m
+#/gps/pos/halfy 2.0 m
+/gps/pos/halfz 0.9 m
+/gps/pos/radius 0.9 m
+/gps/pos/confine Tank
+/gps/ang/type iso
+#
+/run/beamOn 100

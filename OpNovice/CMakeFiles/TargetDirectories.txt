@@ -1,0 +1,7 @@
+/vagrant/OpNovice/CMakeFiles/edit_cache.dir
+/vagrant/OpNovice/CMakeFiles/list_install_components.dir
+/vagrant/OpNovice/CMakeFiles/install.dir
+/vagrant/OpNovice/CMakeFiles/install/local.dir
+/vagrant/OpNovice/CMakeFiles/install/strip.dir
+/vagrant/OpNovice/CMakeFiles/rebuild_cache.dir
+/vagrant/OpNovice/CMakeFiles/DDM.dir
